@@ -1,0 +1,29 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "This is where you will be completing and pull requesting your project",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shansiddiqui94/Weather-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shansiddiqui94/Weather-Project/issues"
+  },
+  "homepage": "https://github.com/shansiddiqui94/Weather-Project#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  },
+  "browserslist": [
+    "last 1 chrome version"
+  ]
+}
